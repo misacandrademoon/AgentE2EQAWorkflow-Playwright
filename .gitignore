@@ -9,3 +9,6 @@ node_modules/
 .vscode/
 .playwright-mcp/
 node_modules/
+package.json
+playwright.config.ts
+pnpm-lock.yaml
